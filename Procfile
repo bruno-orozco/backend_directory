@@ -1,0 +1,1 @@
+web gunicorn backend_directory.wsgi --log-file
